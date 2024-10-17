@@ -1,8 +1,8 @@
 # Anastasiya Bibaeva
 
 ## Contacts
-nasbibaeva@gmail.com
-Discord
+* ***email*** nasbibaeva@gmail.com
+* ***Discord***
 
 ## About me
 Having worked in the retail sector for more than 10 years, I gained a lot of hard and soft skills.  Moreover, I became a tutor for new comers in this sphere.
@@ -11,8 +11,8 @@ Frontend attracts me with the opportunity to create a product that is user-frien
 I hope my previous experience will help me to master the necessary competencies faster.
 
 ## Skills
-JavaScript (Basic)
-Git
+* JavaScript (Basic)
+* Git
 
 ## Code Example
 ```
@@ -25,10 +25,10 @@ function multiply(a, b){
 https://AnastasiyaBibaeva.github.io/rsschool-cv/cv
 
 ## Education
--	Bachelor, Russian Government Sociology University
+-	**Bachelor, Russian Government Sociology University**
 	* Faculty of Sociology
 
 ## Languages
 *  Russian native
-*  English B2 (according to the online test at EF Set [www.efset.org](https://efset.org))
+*  **English** B2 (according to the online test at EF Set [www.efset.org](https://efset.org))
    -  I worked for 1.5 years in Thailand, communicating with colleagues only in English.
