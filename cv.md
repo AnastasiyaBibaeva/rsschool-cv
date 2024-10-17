@@ -22,7 +22,7 @@ function multiply(a, b){
 ```
 
 ## Learning project
-https://AnastasiyaBibaeva.github.io/rsschool-cv/cv
+[https://AnastasiyaBibaeva.github.io/rsschool-cv/cv](https://AnastasiyaBibaeva.github.io/rsschool-cv/cv)
 
 ## Education
 -	**Bachelor, Russian Government Sociology University**
